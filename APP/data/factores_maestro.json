@@ -1,0 +1,94 @@
+{
+  "F": [
+    {
+      "codigo": "F1",
+      "nombre": "Personal capacitado y experimentado."
+    },
+    {
+      "codigo": "F2",
+      "nombre": "Eficiencia en abastecimiento logístico."
+    },
+    {
+      "codigo": "F3",
+      "nombre": "Control riguroso de flujo financiero."
+    },
+    {
+      "codigo": "F4",
+      "nombre": "Control presupuestario continuo."
+    },
+    {
+      "codigo": "F5",
+      "nombre": "Posicionamiento de marca digital."
+    },
+    {
+      "codigo": "F6",
+      "nombre": "Expansión en mercados externos."
+    },
+    {
+      "codigo": "F7",
+      "nombre": "Alta productividad agrícola."
+    },
+    {
+      "codigo": "F8",
+      "nombre": "Calidad óptima en postcosecha."
+    },
+    {
+      "codigo": "F9",
+      "nombre": "Desarrollo de variedades exclusivas."
+    },
+    {
+      "codigo": "F10",
+      "nombre": "Monitoreo agrícola automatizado."
+    },
+    {
+      "codigo": "F11",
+      "nombre": "Integración de software ERP."
+    }
+  ],
+  "D": [
+    {
+      "codigo": "D1",
+      "nombre": "Alta rotación en temporadas."
+    },
+    {
+      "codigo": "D2",
+      "nombre": "Sobrecarga operativa estacional."
+    },
+    {
+      "codigo": "D3",
+      "nombre": "Dependencia de estabilidad externa."
+    },
+    {
+      "codigo": "D4",
+      "nombre": "Alza de costos operativos."
+    },
+    {
+      "codigo": "D5",
+      "nombre": "Identidad corporativa difusa."
+    },
+    {
+      "codigo": "D6",
+      "nombre": "Dependencia de ventas estacionales."
+    },
+    {
+      "codigo": "D7",
+      "nombre": "Vulnerabilidad climática y fitosanitaria."
+    },
+    {
+      "codigo": "D8",
+      "nombre": "Altos costos de conservación."
+    },
+    {
+      "codigo": "D9",
+      "nombre": "Alta carga financiera en I+D."
+    },
+    {
+      "codigo": "D10",
+      "nombre": "Procesos de respuestas prolongados."
+    },
+    {
+      "codigo": "D11",
+      "nombre": "Dependencia y actualización tecnológica."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "fortalezas": [
+    {
+      "codigo": "F1",
+      "peso": 0.08,
+      "calificacion": 4.0
+    },
+    {
+      "codigo": "F3",
+      "peso": 0.09,
+      "calificacion": 4.0
+    },
+    {
+      "codigo": "F6",
+      "peso": 0.07,
+      "calificacion": 3.0
+    },
+    {
+      "codigo": "F7",
+      "peso": 0.08,
+      "calificacion": 3.0
+    },
+    {
+      "codigo": "F9",
+      "peso": 0.09,
+      "calificacion": 4.0
+    },
+    {
+      "codigo": "F11",
+      "peso": 0.07,
+      "calificacion": 3.0
+    }
+  ],
+  "debilidades": [
+    {
+      "codigo": "D1",
+      "peso": 0.1,
+      "calificacion": 1.0
+    },
+    {
+      "codigo": "D3",
+      "peso": 0.12,
+      "calificacion": 2.0
+    },
+    {
+      "codigo": "D4",
+      "peso": 0.11,
+      "calificacion": 1.0
+    },
+    {
+      "codigo": "D6",
+      "peso": 0.1,
+      "calificacion": 2.0
+    },
+    {
+      "codigo": "D10",
+      "peso": 0.09,
+      "calificacion": 2.0
+    }
+  ]
+}

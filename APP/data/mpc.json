@@ -1,0 +1,63 @@
+{
+  "companies": [
+    "Floral Chain Group ",
+    "Rosaprima",
+    "Bella Rosa "
+  ],
+  "factores": [
+    {
+      "factor": "Calidad del producto",
+      "peso": 0.2,
+      "ratings": [
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "factor": "Sostenibilidad Ambiental ",
+      "peso": 0.15,
+      "ratings": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "factor": "Capacidad Exportadora ",
+      "peso": 0.2,
+      "ratings": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "factor": "Innovación y diferenciación ",
+      "peso": 0.15,
+      "ratings": [
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "factor": "Posicionamiento Internacional ",
+      "peso": 0.2,
+      "ratings": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "factor": "Expansión Comercial digital",
+      "peso": 0.1,
+      "ratings": [
+        2,
+        4,
+        3
+      ]
+    }
+  ]
+}

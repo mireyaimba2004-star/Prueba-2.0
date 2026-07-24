@@ -1,0 +1,14 @@
+{
+  "inversion_inicial": 110900,
+  "tmar": 0.15,
+  "ratio_costo_ventas": 0.9575,
+  "gasto_admin_base": 10000,
+  "inflacion_admin": 0.02,
+  "depreciacion_anual": 4100,
+  "gastos_financieros_anual": 0,
+  "ptu_pct": 0.15,
+  "ir_pct": 0.25,
+  "anios": [2027, 2028, 2029, 2030, 2031],
+  "ingresos": [44257, 110642, 199155, 265540, 331925],
+  "ahorro_pct": [0.350928, 0.413595, 0.330441, 0.323303, 0.319006]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Legalidad",
+    "descripcion": "Cumplir con todas las normas nacionales e internacionales en producción, exportación y comercio de flores."
+  },
+  {
+    "nombre": "Ética empresarial",
+    "descripcion": "Actuar con transparencia en todos los procesos comerciales, laborales y productivos."
+  },
+  {
+    "nombre": "Responsabilidad ambiental",
+    "descripcion": "Reducir el impacto ambiental mediante el uso eficiente del agua, control de químicos y manejo sostenible del cultivo."
+  },
+  {
+    "nombre": "Seguridad y salud ocupacional",
+    "descripcion": "Garantizar condiciones seguras de trabajo para todos los colaboradores en fincas y procesos de empaque."
+  },
+  {
+    "nombre": "Calidad constante",
+    "descripcion": "Mantener estándares internacionales en cada etapa de la cadena productiva para asegurar la satisfacción del cliente."
+  },
+  {
+    "nombre": "Respeto a las personas",
+    "descripcion": "Promover un trato digno, equitativo y justo hacia los trabajadores y la comunidad."
+  },
+  {
+    "nombre": "Mejora continua",
+    "descripcion": "Optimizar procesos productivos, logísticos y administrativos para aumentar la competitividad."
+  }
+]

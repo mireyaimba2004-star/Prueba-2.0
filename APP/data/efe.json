@@ -1,0 +1,126 @@
+{
+  "oportunidades": [
+    {
+      "factor": "1. Crecimiento del 200% en la presencia física en mercados clave internacionales.",
+      "peso": 0.07,
+      "calificacion": 4.0,
+      "codigo": "EFE_O1"
+    },
+    {
+      "factor": "2. Cumplimiento de normas fitosanitarias internacionales (98% de aprobación en auditorías).",
+      "peso": 0.06,
+      "calificacion": 4.0,
+      "codigo": "EFE_O2"
+    },
+    {
+      "factor": "3. Vinculación del 300% con agregados comerciales y optimización de canales diplomáticos gremiales.",
+      "peso": 0.05,
+      "calificacion": 4.0,
+      "codigo": "EFE_O3"
+    },
+    {
+      "factor": "4. Apertura de nuevos acuerdos comerciales y tratado de libre comercio para el sector agrícola",
+      "peso": 0.05,
+      "calificacion": 3.0,
+      "codigo": "EFE_O4"
+    },
+    {
+      "factor": "5. Incremento en la demanda global de flores certificadas con sellos de sostenibilidad socio-ambiental.",
+      "peso": 0.05,
+      "calificacion": 3.0,
+      "codigo": "EFE_O5"
+    },
+    {
+      "factor": "6. Alianzas estratégicas con aerolíneas de carga para asegurar capacidad logística en temporadas altas ",
+      "peso": 0.05,
+      "calificacion": 3.0,
+      "codigo": "EFE_O6"
+    },
+    {
+      "factor": "7. Acceso a líneas de financiamiento internacional y fondos verdes para la transición ecológica.",
+      "peso": 0.04,
+      "calificacion": 2.0,
+      "codigo": "EFE_O7"
+    },
+    {
+      "factor": "8. Desarrollo de canales digitales de comercio electrónico directo(B2B) con distribuidores globales ",
+      "peso": 0.05,
+      "calificacion": 3.0,
+      "codigo": "EFE_O8"
+    },
+    {
+      "factor": "9. Adopción de tecnologías avanzadas de agricultura de precisión para la optimización del rendimiento hídrico  ",
+      "peso": 0.04,
+      "calificacion": 2.0,
+      "codigo": "EFE_O9"
+    },
+    {
+      "factor": "10. Creciente preferencia de los mercados premium por variedades exclusivas de alta durabilidad en florero.",
+      "peso": 0.04,
+      "calificacion": 3.0,
+      "codigo": "EFE_O10"
+    }
+  ],
+  "amenazas": [
+    {
+      "factor": "11. Brecha del 70%en la mitigación de la huella de carbono ante regulaciones ambientales de la Unión Europea ",
+      "peso": 0.08,
+      "calificacion": 1.0,
+      "codigo": "EFE_A1"
+    },
+    {
+      "factor": "12. Desventaja competitiva de costos del 22% frente a productores de países no dolarizados.",
+      "peso": 0.07,
+      "calificacion": 2.0,
+      "codigo": "EFE_A2"
+    },
+    {
+      "factor": "13. Inestabilidad política y regulatoria interna que altera las estructuras impositivas y costos laborales.",
+      "peso": 0.05,
+      "calificacion": 2.0,
+      "codigo": "EFE_A3"
+    },
+    {
+      "factor": "14. Volatilidad y encarecimiento constante de las tarifas operativas del flete aéreo internacional.",
+      "peso": 0.05,
+      "calificacion": 2.0,
+      "codigo": "EFE_A4"
+    },
+    {
+      "factor": "15. Fenómenos climáticos externos derivados del cambio climático que distorsionan los ciclos de cosecha. ",
+      "peso": 0.05,
+      "calificacion": 3.0,
+      "codigo": "EFE_A5"
+    },
+    {
+      "factor": "16. Fluctuaciones drásticas y escasez en el suministro global de insumos y fertilizantes agrícolas importados ",
+      "peso": 0.04,
+      "calificacion": 2.0,
+      "codigo": "EFE_A6"
+    },
+    {
+      "factor": "17. Rigidez del esquema de dolarización local frente a las devaluaciones de competidores regionales.",
+      "peso": 0.05,
+      "calificacion": 2.0,
+      "codigo": "EFE_A7"
+    },
+    {
+      "factor": "18. Contracción de la demanda económica en mercados tradicionales de destino debido a tensiones geopolíticas.",
+      "peso": 0.04,
+      "calificacion": 2.0,
+      "codigo": "EFE_A8"
+    },
+    {
+      "factor": "19. Escasez de mano de obra disponible en el sector rural debido a dinámicas demográficas y de migración.",
+      "peso": 0.04,
+      "calificacion": 3.0,
+      "codigo": "EFE_A9"
+    },
+    {
+      "factor": "20. Imposición imprevista de barreras no arancelarias en mercados emergentes de alta exigencia.",
+      "peso": 0.03,
+      "calificacion": 3.0,
+      "codigo": "EFE_A10"
+    }
+  ]
+}

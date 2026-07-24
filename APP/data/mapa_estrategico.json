@@ -1,0 +1,156 @@
+{
+  "meta": "Consolidar a Floral Chain Group como un holding florícola líder en el mercado internacional premium al 2031, garantizando la excelencia operativa y un modelo de negocio sostenible certificado.",
+  "objetivos": [
+    {
+      "objetivo": "Estandarizar el posicionamiento internacional de Floral Chain Group, a través de la integración total de sus subsidiarias en un sistema de inteligencia de datos, que fortalezca el desempeño empresarial hacia el año 2031.",
+      "filas": [
+        {
+          "perspectiva": "Procesos Internos",
+          "estrategia": "Mejorando los estándares de calidad en cada proceso para cumplir con las exigencias ambientales de los mercados internacionales.",
+          "actividades": [
+            "Identificar las normas ambientales vigentes en los mercados florícolas.",
+            "Monitorear periódicamente el cumplimiento de las normas ambientales.",
+            "Documentar las mejoras realizadas en cada proceso para evidenciar el cumplimiento y éxito."
+          ],
+          "responsable": "Dirección de Producción y Operaciones",
+          "kpi": "(Implementación de mejoras realizadas × revisiones internas exitosas / mejoras procesos productivos identificadas × revisiones planificadas) × 100"
+        },
+        {
+          "perspectiva": "Cliente",
+          "estrategia": "Analizando las tendencias y cambios del sector florícola para mejorar la organización y la toma de decisiones.",
+          "actividades": [
+            "Digitalizar documentación institucional."
+          ],
+          "responsable": "Dirección Administrativa",
+          "kpi": "(Mejoras con resultados positivos / Total de mejoras implementadas) × 100"
+        }
+      ],
+      "objetivo_id": "OE1"
+    },
+    {
+      "objetivo": "Fortalecer la distinción comercial del grupo mediante una reingeniería de procesos productivos que eleve la eficiencia operativa entre un 10% y 20% durante el periodo 2026–2031.",
+      "filas": [
+        {
+          "perspectiva": "Aprendizaje y crecimiento",
+          "estrategia": "Desarrollando una cultura organizacional basada en valores, lineamientos y criterios de actuación comunes que fortalezcan la cohesión interna y el compromiso de los colaboradores con los objetivos institucionales.",
+          "actividades": [
+            "Definir los valores organizacionales, principios de actuación y comportamientos esperados que orientarán la cultura empresarial.",
+            "Diseñar un plan de comunicación interna para difundir los valores, lineamientos y objetivos institucionales en todos los niveles de la organización.",
+            "Evaluar periódicamente el nivel de apropiación y cumplimiento de los valores y lineamientos institucionales por parte de los colaboradores."
+          ],
+          "responsable": "Dirección de Investigación y Desarrollo",
+          "kpi": "(Capacitaciones Ejecutadas) / (Colaboradores evaluados y alineados) × 100"
+        },
+        {
+          "perspectiva": "Aprendizaje y crecimiento",
+          "estrategia": "Gestionando de manera planificada el proceso de cambio organizacional, aprovechando la capacidad tecnológica y directiva de la empresa para conducir a los 700 colaboradores hacia la adopción de nuevas normas, valores y estructuras internas que eliminen la incertidumbre operativa.",
+          "actividades": [
+            "Diseñar un plan de gestión del cambio que establezca etapas, responsables, recursos y tiempos para la transición hacia la nueva estructura organizacional.",
+            "Ejecutar campañas de comunicación interna que expliquen a los colaboradores los beneficios del cambio organizacional y su rol dentro del nuevo modelo.",
+            "Evaluar periódicamente el nivel de adopción del cambio organizacional y aplicar ajustes al plan según los resultados obtenidos."
+          ],
+          "responsable": "Dirección Administrativa y RRHH",
+          "kpi": "(Colaboradores que aprueban satisfactoriamente la evaluación de adopción del cambio / Total de colaboradores evaluados en el proceso de transformación) × 100"
+        },
+        {
+          "perspectiva": "Procesos Internos",
+          "estrategia": "Rediseñando el modelo organizativo mediante manuales internos y lineamientos claros que guíen al personal, aprovechando la tecnología actual para unificar los valores de la empresa.",
+          "actividades": [
+            "Redactar manuales de funciones.",
+            "Estandarizar reglamento interno.",
+            "Subir normas al sistema.",
+            "Asignar metas de desempeño.",
+            "Revisar cumplimiento de reglas."
+          ],
+          "responsable": "Dirección Administrativa",
+          "kpi": "(Documentos que mejoraron el desempeño / Total de documentos formalizados) × 100"
+        },
+        {
+          "perspectiva": "Procesos Internos",
+          "estrategia": "Implementando un modelo de gestión basado en normas y controles internos que garantice la eficiencia operativa.",
+          "actividades": [
+            "Diagnosticar el nivel de cumplimiento de las normas y procedimientos existentes.",
+            "Definir estándares y lineamientos de gestión para cada área de la organización.",
+            "Capacitar a los responsables de cada área en la aplicación de los controles y lineamientos establecidos.",
+            "Evaluar periódicamente el desempeño del modelo de gestión e implementar acciones de mejora continua."
+          ],
+          "responsable": "Dirección Administrativa y Talento Humano",
+          "kpi": "(N° de controles efectivos / Total de controles aplicados) × 100"
+        }
+      ],
+      "objetivo_id": "OE2"
+    },
+    {
+      "objetivo": "Garantizar el acceso a segmentos del mercado premium mediante la obtención de los sellos Flor Ecuador y Rainforest Alliance en los próximos 5 años, fundamentado en una reducción hídrica del 15% y la especialización del 95% del capital humano.",
+      "filas": [
+        {
+          "perspectiva": "Procesos Internos",
+          "estrategia": "Formalizando políticas, normas y procedimientos institucionales que permitan estandarizar la gestión interna y fortalecer la consistencia organizacional en todos los niveles de la empresa.",
+          "actividades": [
+            "Documentar las políticas, normas y procedimientos necesarios para regular la gestión institucional.",
+            "Definir las responsabilidades, niveles de autoridad y líneas de comunicación asociadas a cada proceso organizacional.",
+            "Implementar los instrumentos normativos y procedimentales en las distintas áreas de la empresa."
+          ],
+          "responsable": "Dirección de Investigación y Desarrollo",
+          "kpi": "(Actividades de Gestión de procesos ejecutadas / Total de actividades planificadas para el proyecto) × 100"
+        },
+        {
+          "perspectiva": "Aprendizaje y crecimiento",
+          "estrategia": "Implementando alianzas estratégicas que permitan incorporar mejores prácticas de gestión y fortalecer la estructura organizacional para incrementar la competitividad empresarial.",
+          "actividades": [
+            "Identificando organizaciones referentes con modelos organizacionales exitosos para establecer posibles alianzas.",
+            "Implementando herramientas tecnológicas de gestión por parte de los competidores para optimizar la estructura organizacional.",
+            "Capacitando al personal directivo y operativo mediante programas desarrollados conjuntamente con los aliados estratégicos."
+          ],
+          "responsable": "Dirección Comercial",
+          "kpi": "(Convenios firmados + alianzas ejecutadas / Número de alianzas identificadas + alianzas planificadas) × 100"
+        },
+        {
+          "perspectiva": "Aprendizaje y crecimiento",
+          "estrategia": "Aprovechando la infraestructura tecnológica existente para diseñar, documentar y estandarizar los procesos y normas internas que la organización requiere, reduciendo la incertidumbre operativa y fortaleciendo la capacidad competitiva frente a las amenazas del entorno.",
+          "actividades": [
+            "Identificar los procesos críticos que carecen de normas o procedimientos definidos y priorizarlos para su estandarización.",
+            "Integrar los procesos estandarizados a los sistemas tecnológicos existentes para garantizar su aplicación uniforme en todos los niveles de la organización.",
+            "Capacitar a los 700 colaboradores en el uso de los sistemas tecnológicos y en la aplicación de los procesos y normas estandarizadas."
+          ],
+          "responsable": "Dirección de Sistemas y Tecnología",
+          "kpi": "(Procesos críticos integrados y controlados en el sistema informático / Total de procesos críticos priorizados para estandarización) × 100"
+        },
+        {
+          "perspectiva": "Procesos Internos",
+          "estrategia": "Fortaleciendo la estructura administrativa mediante la definición de funciones, responsabilidades y líneas de autoridad que permitan brindar directrices claras a los colaboradores.",
+          "actividades": [
+            "Analizar funciones actuales de cada puesto.",
+            "Diseñar perfiles de cargo.",
+            "Establecer líneas de autoridad.",
+            "Elaborar manual de funciones."
+          ],
+          "responsable": "Dirección Administrativa y Talento Humano",
+          "kpi": "(Perfiles diseñados + Niveles jerárquicos definidos) / (Total de cargos + Total de niveles requeridos) × 100"
+        },
+        {
+          "perspectiva": "Procesos Internos",
+          "estrategia": "Implementando políticas, normas y procedimientos institucionales que establezcan directrices claras y aseguren el cumplimiento organizacional.",
+          "actividades": [
+            "Elaborar políticas y procedimientos institucionales.",
+            "Validar normativa con directivos.",
+            "Aprobar documentos normativos."
+          ],
+          "responsable": "Dirección Administrativa",
+          "kpi": "(Normas Diseñadas + Documentos Aprobados + Colaboradores Capacitados) / (Total Planificado + Documentos Presentados + Total empleados) × 100"
+        },
+        {
+          "perspectiva": "Financiera",
+          "estrategia": "Estableciendo una estructura organizacional claramente definida, con funciones, responsabilidades y líneas de autoridad formalmente asignadas para mejorar la coordinación del personal.",
+          "actividades": [
+            "Diseñar y actualizar el organigrama institucional.",
+            "Comunicar formalmente la estructura organizacional a todos los colaboradores."
+          ],
+          "responsable": "Dirección Administrativa y Talento Humano",
+          "kpi": "(Áreas con procesos estructurales eficientes / Total de áreas evaluadas) × 100"
+        }
+      ],
+      "objetivo_id": "OE3"
+    }
+  ]
+}

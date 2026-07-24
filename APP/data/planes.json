@@ -1,0 +1,629 @@
+{
+  "planes": [
+    {
+      "periodo": "2026-2030",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Supervivencia (DA) Fortalecimiento organizacional y control interno",
+          "estrategia": "Estableciendo una estructura organizacional claramente definida, con funciones, responsabilidades y líneas de autoridad formalmente asignadas para mejorar la coordinación del personal (Estrategia 11 - Índice de Eficiencia Estructural).",
+          "actividades": [
+            {
+              "actividad": "1. Analizar la estructura organizacional existente.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 1000.0,
+              "tipo_cuenta": "Activo intangible – Licencias"
+            },
+            {
+              "actividad": "2. Diseñar y actualizar el organigrama institucional.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "6 meses",
+              "costo": 700.0,
+              "tipo_cuenta": "Gasto operativo"
+            },
+            {
+              "actividad": "3. Definir perfiles de puestos, funciones y niveles de autoridad.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 500.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "4. Elaborar perfiles de puestos alineados a los objetivos institucionales.",
+              "responsable": "Dirección de Producción y Operaciones",
+              "tiempo": "1 mes",
+              "costo": 600.0,
+              "tipo_cuenta": "Gasto operativo"
+            },
+            {
+              "actividad": "5. Comunicar formalmente la estructura organizacional a todos los colaboradores.",
+              "responsable": "Dirección de Producción y Operaciones",
+              "tiempo": "6 meses",
+              "costo": 750.0,
+              "tipo_cuenta": "Gasto de Talento Humano"
+            },
+            {
+              "actividad": "6. Realizar evaluaciones periódicas para verificar la correcta aplicación de las responsabilidades.",
+              "responsable": "Gerencia General",
+              "tiempo": "Continuo",
+              "costo": 500.0,
+              "tipo_cuenta": "Gasto administrativo"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN FINANCIERO"
+    },
+    {
+      "periodo": "2026-2030",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Marketing Interno (FO) Ofensivo diferenciación",
+          "estrategia": "Desarrollando una cultura organizacional basada en valores, lineamientos y criterios de actuación comunes que fortalezcan la cohesión interna y el compromiso de los colaboradores con los objetivos institucionales.",
+          "actividades": [
+            {
+              "actividad": "1. Diagnosticar el nivel de conocimiento, percepción y alineación de los colaboradores respecto a los valores y lineamientos institucionales.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "2 meses",
+              "costo": 2000.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "2. Definir los valores organizacionales, principios de actuación y comportamientos esperados que orientarán la cultura empresarial.",
+              "responsable": "",
+              "tiempo": "3 meses",
+              "costo": 1500.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "3. Diseñar un plan de comunicación interna para difundir los valores, lineamientos y objetivos institucionales en todos los niveles de la organización.",
+              "responsable": "",
+              "tiempo": "2 meses",
+              "costo": 2500.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "4. Capacitar a los colaboradores en la aplicación de los valores y criterios de actuación establecidos para fortalecer la gestión diaria.",
+              "responsable": "",
+              "tiempo": "3 meses",
+              "costo": 5000.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "5. Implementar programas de reconocimiento institucional que refuercen la adopción de los valores y comportamientos organizacionales definidos.",
+              "responsable": "",
+              "tiempo": "2 meses",
+              "costo": 3000.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "6. Evaluar periódicamente el nivel de apropiación y cumplimiento de los valores y lineamientos institucionales por parte de los colaboradores.",
+              "responsable": "",
+              "tiempo": "Continuo",
+              "costo": 1000.0,
+              "tipo_cuenta": "Egreso"
+            }
+          ]
+        },
+        {
+          "tipo_estrategia": "Marketing Interno (FO) Ofensivo diferenciación",
+          "estrategia": "Formalizando políticas, normas y procedimientos institucionales que permitan estandarizar la gestión interna y fortalecer la consistencia organizacional en todos los niveles de la empresa.",
+          "actividades": [
+            {
+              "actividad": "1. Levantar y analizar los procesos administrativos y operativos susceptibles de estandarización dentro de la organización.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "2 meses",
+              "costo": 1800.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "2. Documentar las políticas, normas y procedimientos necesarios para regular la gestión institucional.",
+              "responsable": "",
+              "tiempo": "3 meses",
+              "costo": 2200.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "3. Definir las responsabilidades, niveles de autoridad y líneas de comunicación asociadas a cada proceso organizacional.",
+              "responsable": "",
+              "tiempo": "4 meses",
+              "costo": 1500.0,
+              "tipo_cuenta": "Inversión"
+            },
+            {
+              "actividad": "4. Implementar los instrumentos normativos y procedimentales en las distintas áreas de la empresa.",
+              "responsable": "",
+              "tiempo": "3 meses",
+              "costo": 2800.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "5. Socializar las políticas, normas y procedimientos institucionales con todos los colaboradores para asegurar su aplicación uniforme.",
+              "responsable": "",
+              "tiempo": "2 meses",
+              "costo": 2000.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "6. Monitorear el cumplimiento de las políticas, normas y procedimientos establecidos para garantizar la consistencia de la gestión organizacional.",
+              "responsable": "",
+              "tiempo": "Continuo",
+              "costo": 1200.0,
+              "tipo_cuenta": "Egreso"
+            }
+          ]
+        },
+        {
+          "tipo_estrategia": "Marketing Externo (FO) Alianzas estrategicas",
+          "estrategia": "Implementando alianzas estratégicas que permitan incorporar mejores prácticas de gestión y fortalecer la estructura organizacional para incrementar la competitividad empresarial.",
+          "actividades": [
+            {
+              "actividad": "1. Identificando organizaciones referentes con modelos organizacionales exitosos para establecer posibles alianzas.",
+              "responsable": "Dirección Comercial y Marketing",
+              "tiempo": "2 meses",
+              "costo": 1200.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "2. Gestionando convenios de cooperación con instituciones académicas, consultoras y gremios empresariales que aporten conocimientos en gestión organizacional.",
+              "responsable": "",
+              "tiempo": "3  meses",
+              "costo": 2500.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "3. Implementando herramientas tecnológicas de gestión por parte de los competidores para optimizar la estructura organizacional.",
+              "responsable": "",
+              "tiempo": "4 meses",
+              "costo": 4500.0,
+              "tipo_cuenta": "Inversión"
+            },
+            {
+              "actividad": "4. Capacitando al personal directivo y operativo mediante programas desarrollados conjuntamente con los aliados estratégicos.",
+              "responsable": "",
+              "tiempo": "3 meses",
+              "costo": 3800.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "5. Realizando procesos de benchmarking para analizar y adaptar mejores prácticas administrativas y operativas.",
+              "responsable": "",
+              "tiempo": "2 meses",
+              "costo": 1500.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "6. Evaluando periódicamente los resultados obtenidos de las alianzas estratégicas para asegurar mejoras continuas en la eficiencia organizacional.",
+              "responsable": "",
+              "tiempo": "Continuo",
+              "costo": 800.0,
+              "tipo_cuenta": "Egreso"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN DE MARKETING"
+    },
+    {
+      "periodo": "2026-2030",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Defensiva (FA) Calidad ambiental",
+          "estrategia": "Mejorando los estándares de calidad en cada proceso para cumplir con las exigencias ambientales de los mercados internacionales.",
+          "actividades": [
+            {
+              "actividad": "1. Identificar las normas ambientales vigentes en los mercados floricolas.",
+              "responsable": "1.- Dirección de Producción y Operaciones y administrativa",
+              "tiempo": "Semestral",
+              "costo": 800.0,
+              "tipo_cuenta": "Gasto"
+            },
+            {
+              "actividad": "2. Evaluar el cumplimiento actual de la empresa frente a esas normas.",
+              "responsable": "2. Dirección de Producción y Operaciones",
+              "tiempo": "Semestral",
+              "costo": 600.0,
+              "tipo_cuenta": "Gasto"
+            },
+            {
+              "actividad": "3. Implementar mejoras en los proceso productivos para reducir el impacto ambiental.",
+              "responsable": "3.Dirección de Producción y Operaciones",
+              "tiempo": "Mensual",
+              "costo": 2500.0,
+              "tipo_cuenta": "Inversión"
+            },
+            {
+              "actividad": "4. Capacitar al personal en prácticas sostenibles y cuidado del medio ambiente.",
+              "responsable": "4.Dirección Administrativa y RRHH",
+              "tiempo": "Trimestral",
+              "costo": 1200.0,
+              "tipo_cuenta": "Gasto"
+            },
+            {
+              "actividad": "5. Monitorear periódicamente el cumplimiento de las normas ambientales.",
+              "responsable": "5.Dirección de Producción y Operaciones",
+              "tiempo": "Trimestral",
+              "costo": 500.0,
+              "tipo_cuenta": "Gasto"
+            },
+            {
+              "actividad": "6. Documentar las mejoras realizadas en cada proceso para evidenciar el cumplimiento y éxito",
+              "responsable": "6.Dirección Administratviva",
+              "tiempo": "Anual",
+              "costo": 400.0,
+              "tipo_cuenta": "Gasto"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN DE OPERACIONES"
+    },
+    {
+      "periodo": "2026-2030",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Defensiva (FA) Gestión del cambio organizacional",
+          "estrategia": "Gestionando de manera planificada el proceso de cambio organizacional, aprovechando la capacidad tecnológica y directiva de la empresa para conducir a los 700 colaboradores hacia la adopción de nuevas normas, valores y estructuras internas que eliminen la incertidumbre operativa.",
+          "actividades": [
+            {
+              "actividad": "1. Diagnosticar el nivel de resistencia al cambio y el grado de apertura de los colaboradores frente a la implementación de nuevas normas y estructuras organizacionales.",
+              "responsable": "1.Dirección Administrativa y RRHH",
+              "tiempo": "1 año",
+              "costo": 400.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "2. Diseñar un plan de gestión del cambio que establezca etapas, responsables, recursos y tiempos para la transición hacia la nueva estructura organizacional.",
+              "responsable": "2.Gerencia General / Dirección Administrativa y RRHH",
+              "tiempo": "1 año",
+              "costo": 1500.0,
+              "tipo_cuenta": "Activo intangible – Sistema de indicadores"
+            },
+            {
+              "actividad": "3. Capacitar a los líderes y directivos en técnicas de gestión del cambio para que actúen como agentes dinamizadores del proceso de transformación organizacional.",
+              "responsable": "3. Dirección Administrativa y RRHH",
+              "tiempo": "3 meses",
+              "costo": 600.0,
+              "tipo_cuenta": "Gasto de Talento Humano – Capacitación"
+            },
+            {
+              "actividad": "4. Ejecutar campañas de comunicación interna que expliquen a los colaboradores los beneficios del cambio organizacional y su rol dentro del nuevo modelo.",
+              "responsable": "4.Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 350.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "5. Implementar espacios de participación donde los colaboradores puedan expresar inquietudes y aportar al proceso de construcción de la nueva estructura organizacional.",
+              "responsable": "5.Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 300.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "6. Evaluar periódicamente el nivel de adopción del cambio organizacional y aplicar ajustes al plan según los resultados obtenidos.",
+              "responsable": "6.Gerencia General / Dirección Administrativa",
+              "tiempo": "Continuo",
+              "costo": 700.0,
+              "tipo_cuenta": "Gasto operativo – Mejora continua"
+            }
+          ]
+        },
+        {
+          "tipo_estrategia": "Adaptabilidad (DO)Ingenieria de procesos",
+          "estrategia": "Rediseñando el modelo organizativo mediante manuales internos y lineamientos claros que guíen al personal, aprovechando la tecnología actual para unificar los valores de la empresa..",
+          "actividades": [
+            {
+              "actividad": "1. Redactar manuales de funciones.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "1 año",
+              "costo": 400.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "2. Estandarizar reglamento interno.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "1 año",
+              "costo": 1500.0,
+              "tipo_cuenta": "Activo intangible – Sistema de indicadores"
+            },
+            {
+              "actividad": "3. Subir normas al sistema.",
+              "responsable": "Dirección de Sistemas y Tecnología",
+              "tiempo": "3 meses",
+              "costo": 600.0,
+              "tipo_cuenta": "Gasto de Talento Humano – Capacitación"
+            },
+            {
+              "actividad": "4. Asignar metas de desempeño.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 350.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "5. Digitalizar documentación institucional.",
+              "responsable": "Dirección de Sistemas y Tecnología",
+              "tiempo": "1 mes",
+              "costo": 300.0,
+              "tipo_cuenta": "Gasto administrativo"
+            },
+            {
+              "actividad": "6. Revisar cumplimiento de reglas.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "Continuo",
+              "costo": 700.0,
+              "tipo_cuenta": "Gasto operativo – Mejora continua"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN DE MEJORAS"
+    },
+    {
+      "periodo": "2026-2031",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Defensiva (FA) Estandarización de procesos mediante la tecnología instalada",
+          "estrategia": "Aprovechando la infraestructura tecnológica existente para diseñar, documentar y estandarizar los procesos y normas internas que la organización requiere, reduciendo la incertidumbre operativa y fortaleciendo la capacidad competitiva frente a las amenazas del entorno.",
+          "actividades": [
+            {
+              "actividad": "1. Identificar los procesos críticos que carecen de normas o procedimientos definidos y priorizarlos para su estandarización.",
+              "responsable": "1.- Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 800.0,
+              "tipo_cuenta": "Gasto de administración"
+            },
+            {
+              "actividad": "2. Utilizar las herramientas tecnológicas disponibles para documentar y digitalizar los procedimientos, normas y políticas institucionales.",
+              "responsable": "2.Dirección de Sistemas y Tecnología",
+              "tiempo": "2 meses",
+              "costo": 2500.0,
+              "tipo_cuenta": "Inversión tecnológica"
+            },
+            {
+              "actividad": "3. Integrar los procesos estandarizados a los sistemas tecnológicos existentes para garantizar su aplicación uniforme en todos los niveles de la organización.",
+              "responsable": "3.Dirección de Sistemas y Tecnología / Dirección Administrativa y RRHH",
+              "tiempo": "2 meses",
+              "costo": 3000.0,
+              "tipo_cuenta": "Inversión tecnológica"
+            },
+            {
+              "actividad": "4. Capacitar a los 700 colaboradores en el uso de los sistemas tecnológicos y en la aplicación de los procesos y normas estandarizadas.",
+              "responsable": "4.Dirección Administrativa y RRHH",
+              "tiempo": "3 meses",
+              "costo": 4500.0,
+              "tipo_cuenta": "Gasto de personal (Capacitación)"
+            },
+            {
+              "actividad": "5. Monitorear el cumplimiento de los procesos estandarizados mediante los sistemas tecnológicos para detectar desviaciones y aplicar correcciones.",
+              "responsable": "5.Dirección de Sistemas y Tecnología",
+              "tiempo": "Mensual",
+              "costo": 900.0,
+              "tipo_cuenta": "Gasto de administración"
+            },
+            {
+              "actividad": "6. Evaluar periódicamente el impacto de la estandarización tecnológica en la reducción de la incertidumbre operativa y en la competitividad de la empresa.",
+              "responsable": "6.Gerencia General / Dirección Administrativa",
+              "tiempo": "Semestral",
+              "costo": 1200.0,
+              "tipo_cuenta": "Gasto de administración"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN TECNOLOGICO O DE SISTEMAS"
+    },
+    {
+      "periodo": "2026-2031",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Adaptabilidad (DO)Analizadora",
+          "estrategia": "Analizando las tendencias y cambios del sector florícola para mejorar la organización y la toma de decisiones.",
+          "actividades": [
+            {
+              "actividad": "Revisar tendencias del mercado florícola.",
+              "responsable": "Dirección Comercial",
+              "tiempo": "1 mes",
+              "costo": 1500.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Analizar cambios en las necesidades de los clientes.",
+              "responsable": "Dirección Comercial",
+              "tiempo": "1 mes",
+              "costo": 1200.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Identificar oportunidades de mejora interna.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "2 meses",
+              "costo": 800.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Realizar proyecciones mensuales de demanda de materia prima.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "2 meses",
+              "costo": 2000.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Aplicar herramientas que faciliten la gestión.",
+              "responsable": "Dirección de Sistemas y Tecnología",
+              "tiempo": "3 meses",
+              "costo": 4500.0,
+              "tipo_cuenta": "Inversión"
+            },
+            {
+              "actividad": "Evaluar los resultados obtenidos..",
+              "responsable": "Gerencia General",
+              "tiempo": "Continuo",
+              "costo": 500.0,
+              "tipo_cuenta": "Egreso"
+            }
+          ]
+        },
+        {
+          "tipo_estrategia": "Supervivencia (DA)Normativa",
+          "estrategia": "Implementando políticas, normas y procedimientos institucionales que establezcan directrices claras y aseguren el cumplimiento organizacional.",
+          "actividades": [
+            {
+              "actividad": "Diagnosticar normas actuales en todas las áreas",
+              "responsable": "Dirección de Administrativa",
+              "tiempo": "1 mes",
+              "costo": 600.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Elaborar políticas y procedimientos institucionales",
+              "responsable": "Dirección de Administrativa",
+              "tiempo": "2 meses",
+              "costo": 2500.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Diseñar manual de normas internas",
+              "responsable": "Dirección de Talento Humano (RRHH)",
+              "tiempo": "2 meses",
+              "costo": 1800.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Validar normativa con directivos",
+              "responsable": "Gerencia General",
+              "tiempo": "1 mes",
+              "costo": 400.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Aprobar documentos normativos",
+              "responsable": "Gerencia General",
+              "tiempo": "1 mes",
+              "costo": 300.0,
+              "tipo_cuenta": "Egreso"
+            },
+            {
+              "actividad": "Capacitar a los 700 colaboradores en normas institucionales.",
+              "responsable": "Dirección de Talento Humano (RRHH)",
+              "tiempo": "3 meses",
+              "costo": 6000.0,
+              "tipo_cuenta": "Egreso"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN DE COMPRAS"
+    },
+    {
+      "periodo": "2026-2031",
+      "moneda": "USD",
+      "estrategias": [
+        {
+          "tipo_estrategia": "Adaptabilidad (DO) Organizacional",
+          "estrategia": "Fortaleciendo la estructura administrativa mediante la definición de funciones, responsabilidades y líneas de autoridad que permitan brindar directrices claras a los colaboradores.",
+          "actividades": [
+            {
+              "actividad": "Levantar información de los cargos existentes",
+              "responsable": "Dirección Administrativa",
+              "tiempo": "2 meses",
+              "costo": 1200.0,
+              "tipo_cuenta": "Gasto Administrativo"
+            },
+            {
+              "actividad": "Analizar funciones actuales de cada puesto",
+              "responsable": "Dirección de Talento Humano(RRHH)",
+              "tiempo": "1 mes",
+              "costo": 1000.0,
+              "tipo_cuenta": "Activo Tecnológico"
+            },
+            {
+              "actividad": "Diseñar perfiles de cargo",
+              "responsable": "Dirección de Talento Humano(RRHH)",
+              "tiempo": "2 meses",
+              "costo": 2200.0,
+              "tipo_cuenta": "Gasto Operativo"
+            },
+            {
+              "actividad": "Establecer líneas de autoridad",
+              "responsable": "Gerencia General",
+              "tiempo": "1 mes",
+              "costo": 500.0,
+              "tipo_cuenta": "Gasto Administrativo"
+            },
+            {
+              "actividad": "Elaborar manual de funciones",
+              "responsable": "Dirección de Talento Humano (RRHH)",
+              "tiempo": "2 meses",
+              "costo": 3000.0,
+              "tipo_cuenta": "Gasto Administrativo"
+            },
+            {
+              "actividad": "Socializar el manual con los colaboradores",
+              "responsable": "Dirección de Talento Humano (RRHH)",
+              "tiempo": "1 mes",
+              "costo": 1500.0,
+              "tipo_cuenta": "Gasto Personal"
+            }
+          ]
+        },
+        {
+          "tipo_estrategia": "Supervivencia (DA) Optimización",
+          "estrategia": "Implementando un modelo de gestión basado en normas y controles internos que garantice la eficiencia operativa",
+          "actividades": [
+            {
+              "actividad": "Diagnosticar el nivel de cumplimiento de las normas y procedimientos existentes.",
+              "responsable": "Dirección de Producción y Operaciones",
+              "tiempo": "1 mes",
+              "costo": 900.0,
+              "tipo_cuenta": "Costo de producción /Operación"
+            },
+            {
+              "actividad": "Definir estándares y lineamientos de gestión para cada área de la organización.",
+              "responsable": "Dirección de Producción y Operaciones",
+              "tiempo": "2 meses",
+              "costo": 1800.0,
+              "tipo_cuenta": "Costo de producción/Gasto Administrativo"
+            },
+            {
+              "actividad": "Diseñar mecanismos de control y seguimiento de las actividades administrativas.",
+              "responsable": "Dirección de Producción y Operaciones",
+              "tiempo": "2 meses",
+              "costo": 1400.0,
+              "tipo_cuenta": "Gasto de Administración"
+            },
+            {
+              "actividad": "Establecer flujos de información y reportes que faciliten la toma de decisiones oportunas.",
+              "responsable": "Dirección Administrativa y RRHH",
+              "tiempo": "1 mes",
+              "costo": 1100.0,
+              "tipo_cuenta": "Gasto Administrativo"
+            },
+            {
+              "actividad": "Capacitar a los responsables de cada área en la aplicación de los controles y lineamientos establecidos.",
+              "responsable": "Dirección Financiera",
+              "tiempo": "1 mes",
+              "costo": 2000.0,
+              "tipo_cuenta": "Gasto de Personal/ Capacitación"
+            },
+            {
+              "actividad": "Evaluar periódicamente el desempeño del modelo de gestión e implementar acciones de mejora continua.",
+              "responsable": "Gerencia General",
+              "tiempo": "Continuo",
+              "costo": 800.0,
+              "tipo_cuenta": "Gasto de administración"
+            }
+          ]
+        }
+      ],
+      "nombre": "PLAN DE CONTROL"
+    }
+  ]
+}

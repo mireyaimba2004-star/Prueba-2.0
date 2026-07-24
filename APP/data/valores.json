@@ -1,0 +1,51 @@
+[
+  {
+    "valor": "Responsabilidad",
+    "comportamientos": [
+      "Cumple con las actividades asignadas.",
+      "Cumple con horarios, normas y estándares de calidad.",
+      "Cuida y optimiza los recursos naturales.",
+      "Busca soluciones a los problemas.",
+      "Asume las consecuencias de sus actos."
+    ]
+  },
+  {
+    "valor": "Honestidad",
+    "comportamientos": [
+      "Demuestra sinceridad en su comportamiento.",
+      "Respeta normas y políticas internas.",
+      "Actúa con transparencia.",
+      "Guarda confidencialidad."
+    ]
+  },
+  {
+    "valor": "Justicia",
+    "comportamientos": [
+      "Actúa con rectitud.",
+      "Evalúa de forma objetiva.",
+      "Reconoce los derechos de los colaboradores."
+    ]
+  },
+  {
+    "valor": "Respeto",
+    "comportamientos": [
+      "Acepta opiniones de los demás.",
+      "Mantiene disciplina y educación.",
+      "Respeta el entorno ambiental."
+    ]
+  },
+  {
+    "valor": "Sencillez",
+    "comportamientos": [
+      "Actúa con humildad y coherencia.",
+      "Mantiene comunicación clara y transparente."
+    ]
+  },
+  {
+    "valor": "Libertad",
+    "comportamientos": [
+      "Expresa sus ideas de manera responsable.",
+      "Respeta la libertad de pensamiento."
+    ]
+  }
+]

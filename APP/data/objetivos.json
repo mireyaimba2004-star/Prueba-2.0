@@ -1,0 +1,331 @@
+{
+  "objetivos_estrategicos": [
+    {
+      "eje": "Liderazgo y expansión global",
+      "titulo": "Objetivo estratégico 1",
+      "texto": "Estandarizar el posicionamiento internacional de Floral Chain Group, a través de la integración total de sus subsidiarias en un sistema de inteligencia de datos, que fortalezca el desempeño empresarial hacia el año 2031.",
+      "factores": [
+        {
+          "factor": "Posicionamiento internacional",
+          "peso": 0.25,
+          "importancia": 3
+        },
+        {
+          "factor": "Integración de subsidiarias",
+          "peso": 0.25,
+          "importancia": 3
+        },
+        {
+          "factor": "Inteligencia de datos",
+          "peso": 0.15,
+          "importancia": 2
+        },
+        {
+          "factor": "Desempeño empresarial",
+          "peso": 0.35,
+          "importancia": 4
+        }
+      ],
+      "tacticos": [
+        {
+          "texto": "Integrar el sistema de inteligencia de datos en el 70% de las empresas del holding en un plazo de tres años, con el fin de fortalecer la gestión estratégica y operativa del grupo empresarial.",
+          "factores": [
+            {
+              "factor": "Integración tecnológica corporativa",
+              "peso": 0.3,
+              "importancia": 4
+            },
+            {
+              "factor": "Estandarización de información",
+              "peso": 0.25,
+              "importancia": 4
+            },
+            {
+              "factor": "Toma de decisiones basada en datos",
+              "peso": 0.25,
+              "importancia": 3
+            },
+            {
+              "factor": "Fortalecimiento de la gestión operativa",
+              "peso": 0.2,
+              "importancia": 3
+            }
+          ]
+        },
+        {
+          "texto": "Incrementar en un 10% las exportaciones hacia mercados de Europa y Norteamérica durante un periodo de tres años, consolidando el posicionamiento internacional de la empresa.",
+          "factores": [
+            {
+              "factor": "Expansión internacional",
+              "peso": 0.2,
+              "importancia": 4
+            },
+            {
+              "factor": "Crecimiento de exportaciones",
+              "peso": 0.2,
+              "importancia": 4
+            },
+            {
+              "factor": "Posicionamiento en mercados estratégicos",
+              "peso": 0.45,
+              "importancia": 3
+            },
+            {
+              "factor": "Incremento de ingresos internacionales",
+              "peso": 0.15,
+              "importancia": 3
+            }
+          ]
+        },
+        {
+          "texto": "Fortalecer el posicionamiento de Floral Chain Group en mercados premium mediante estrategias de diferenciación comercial y promoción internacional en un plazo de tres años.",
+          "factores": [
+            {
+              "factor": "Reconocimiento de marca internacional",
+              "peso": 0.5,
+              "importancia": 4
+            },
+            {
+              "factor": "Diferenciación competitiva",
+              "peso": 0.1,
+              "importancia": 4
+            },
+            {
+              "factor": "Participación en mercados premium",
+              "peso": 0.1,
+              "importancia": 3
+            },
+            {
+              "factor": "Promoción y visibilidad internacional",
+              "peso": 0.3,
+              "importancia": 3
+            }
+          ]
+        }
+      ],
+      "id": "OE1"
+    },
+    {
+      "eje": "Innovación, diferenciación y excelencia operativa",
+      "titulo": "Objetivo estratégico 2",
+      "texto": "Fortalecer la distinción comercial del grupo mediante una reingeniería de procesos productivos que eleve la eficiencia operativa entre un 10% y 20% durante el periodo 2026-2031.",
+      "factores": [
+        {
+          "factor": "Distinción comercial",
+          "peso": 0.35,
+          "importancia": 3
+        },
+        {
+          "factor": "Reingeniería de procesos",
+          "peso": 0.4,
+          "importancia": 4
+        },
+        {
+          "factor": "Eficiencia operativa elevada",
+          "peso": 0.25,
+          "importancia": 2
+        }
+      ],
+      "tacticos": [
+        {
+          "texto": "Optimizar los procesos productivos para incrementar la eficiencia operativa en un 10% en un plazo de dos años, mediante mejoras técnicas y de control en las áreas de producción y postcosecha.",
+          "factores": [
+            {
+              "factor": "Optimización de procesos productivos",
+              "peso": 0.4,
+              "importancia": 4
+            },
+            {
+              "factor": "Eficiencia operativa",
+              "peso": 0.3,
+              "importancia": 4
+            },
+            {
+              "factor": "Mejoras técnicas",
+              "peso": 0.15,
+              "importancia": 3
+            },
+            {
+              "factor": "Control de producción y postcosecha",
+              "peso": 0.15,
+              "importancia": 3
+            }
+          ]
+        },
+        {
+          "texto": "Desarrollar al menos dos nuevas variedades de flores diferenciadas para mercados premium en un periodo de tres años, fortaleciendo la innovación y el valor agregado de la empresa.",
+          "factores": [
+            {
+              "factor": "Innovación de productos",
+              "peso": 0.2,
+              "importancia": 4
+            },
+            {
+              "factor": "Desarrollo de nuevas variedades",
+              "peso": 0.5,
+              "importancia": 4
+            },
+            {
+              "factor": "Valor agregado",
+              "peso": 0.2,
+              "importancia": 3
+            },
+            {
+              "factor": "Orientación a nuevos mercados",
+              "peso": 0.1,
+              "importancia": 3
+            }
+          ]
+        },
+        {
+          "texto": "Reducir en un 8% los productos defectuosos mediante el fortalecimiento de los sistemas de control de calidad en un plazo de dos años.",
+          "factores": [
+            {
+              "factor": "Control de calidad",
+              "peso": 0.4,
+              "importancia": 4
+            },
+            {
+              "factor": "Reducción de productos defectuosos",
+              "peso": 0.3,
+              "importancia": 4
+            },
+            {
+              "factor": "Mejora continua",
+              "peso": 0.2,
+              "importancia": 3
+            },
+            {
+              "factor": "Eficiencia operativa",
+              "peso": 0.1,
+              "importancia": 3
+            }
+          ]
+        }
+      ],
+      "id": "OE2"
+    },
+    {
+      "eje": "Sostenibilidad, responsabilidad y valor compartido",
+      "titulo": "Objetivo estratégico 3",
+      "texto": "Garantizar el acceso a segmentos del mercado premium mediante la obtención de los sellos Flor Ecuador y Rainforest Alliance en los próximos 5 años, fundamentado en una reducción hídrica del 15% y la especialización del 95% del capital humano.",
+      "factores": [
+        {
+          "factor": "Segmentos del mercado premium",
+          "peso": 0.25,
+          "importancia": 3
+        },
+        {
+          "factor": "Obtención de certificaciones",
+          "peso": 0.5,
+          "importancia": 3
+        },
+        {
+          "factor": "Reducción hídrica",
+          "peso": 0.1,
+          "importancia": 2
+        },
+        {
+          "factor": "Especialización de colaboradores",
+          "peso": 0.15,
+          "importancia": 4
+        }
+      ],
+      "tacticos": [
+        {
+          "texto": "Obtener las certificaciones Flor Ecuador y Rainforest Alliance en un plazo de tres años, con el propósito de mejorar la competitividad y sostenibilidad empresarial.",
+          "factores": [
+            {
+              "factor": "Obtención de certificaciones",
+              "peso": 0.35,
+              "importancia": 4
+            },
+            {
+              "factor": "Cumplimiento de estándares de sostenibilidad",
+              "peso": 0.3,
+              "importancia": 4
+            },
+            {
+              "factor": "Mejora de la competitividad empresarial",
+              "peso": 0.2,
+              "importancia": 3
+            },
+            {
+              "factor": "Fortalecimiento de la gestión ambiental",
+              "peso": 0.15,
+              "importancia": 3
+            }
+          ]
+        },
+        {
+          "texto": "Reducir en un 10% el consumo de agua mediante la optimización de los sistemas de riego en un plazo de dos años, promoviendo una gestión ambiental más eficiente.",
+          "factores": [
+            {
+              "factor": "Optimización de sistemas de riego",
+              "peso": 0.4,
+              "importancia": 4
+            },
+            {
+              "factor": "Reducción del consumo de agua",
+              "peso": 0.25,
+              "importancia": 4
+            },
+            {
+              "factor": "Eficiencia en el uso de recursos hídricos",
+              "peso": 0.2,
+              "importancia": 3
+            },
+            {
+              "factor": "Gestión ambiental eficiente",
+              "peso": 0.15,
+              "importancia": 3
+            }
+          ]
+        },
+        {
+          "texto": "Capacitar al 80% del personal operativo en prácticas sostenibles en un periodo de tres años, fortaleciendo el compromiso organizacional con la responsabilidad social y ambiental.",
+          "factores": [
+            {
+              "factor": "Capacitación del personal operativo",
+              "peso": 0.35,
+              "importancia": 4
+            },
+            {
+              "factor": "Implementación de prácticas sostenibles",
+              "peso": 0.3,
+              "importancia": 4
+            },
+            {
+              "factor": "Compromiso organizacional",
+              "peso": 0.2,
+              "importancia": 3
+            },
+            {
+              "factor": "Responsabilidad social y ambiental",
+              "peso": 0.15,
+              "importancia": 3
+            }
+          ]
+        }
+      ],
+      "id": "OE3"
+    }
+  ],
+  "ponderacion": [
+    {
+      "objetivo": "Estandarizar el posicionamiento internacional de Floral Chain Group, a través de la integración total de sus subsidiarias en un sistema de inteligencia de datos, que fortalezca el desempeño empresarial hacia el año 2031.",
+      "porcentaje": 35,
+      "formula": "IMAC = (Número de subsidiarias con ERP e IA interconectados / Total de empresas constituyentes del Holding) * 100"
+    },
+    {
+      "objetivo": "Fortalecer la distinción comercial del grupo mediante una reingeniería de procesos productivos que eleve la eficiencia operativa entre un 10% y 20% durante el periodo 2026-2031.",
+      "porcentaje": 40,
+      "formula": "OEE Florícola = Disponibilidad del Suelo * Rendimiento Agrícola * Calidad de Postcosecha"
+    },
+    {
+      "objetivo": "Garantizar el acceso a segmentos del mercado premium mediante la obtención de los sellos Flor Ecuador y Rainforest Alliance en los próximos 5 años, fundamentado en una reducción hídrica del 15% y la especialización del 95% del capital humano.",
+      "porcentaje": 50,
+      "formula": "ICLE = (Criterios de auditoría internacional aprobados / Total de exigencias normativas de certificación) * 100"
+    }
+  ]
+}

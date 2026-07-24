@@ -1,0 +1,542 @@
+[
+  {
+    "id": "Estrategia 1",
+    "kpi_cmi_match": "Índice de adopción de la cultura organizacional",
+    "perspectiva": "Aprendizaje y crecimiento",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "simple",
+    "numerador_label": "Capacitaciones Ejecutadas",
+    "denominador_label": "Colaboradores evaluados y alineados",
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      12,
+      15,
+      18,
+      20
+    ],
+    "denominador": [
+      45,
+      52,
+      60,
+      68
+    ],
+    "interpretacion": "La gráfica nos muestra que el proceso se mantuvo estable durante el período 2022-2025, con un promedio de cumplimiento del 28,73%. Se observa un crecimiento progresivo entre 2022-2024 pero en el año 2025 existe una ligera disminución del indicador; esta no afecta significativamente el comportamiento general del proceso."
+  },
+  {
+    "id": "Estrategia 2",
+    "kpi_cmi_match": "Índice de estandarización de la gestión institucional",
+    "perspectiva": "Procesos Internos",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "simple",
+    "numerador_label": "Actividades de gestión de procesos ejecutadas",
+    "denominador_label": "Total de actividades planificadas para el proyecto",
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "denominador": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "interpretacion": "La gráfica nos muestra que el proyecto avanzó con cambios bruscos sin total estabilidad. El año 1 el progreso inició flojo y se ubicó por debajo del límite central inferior permitido; durante los años 2 y 3 el trabajo mejoró y se mantuvo dentro de las metas normales esperadas; para el año 4 el crecimiento se aceleró tanto que superó el límite central superior."
+  },
+  {
+    "id": "Estrategia 3",
+    "kpi_cmi_match": "Índice de Cumplimiento Estratégico de Alianzas",
+    "perspectiva": "Aprendizaje y crecimiento",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "suma",
+    "numerador_labels": [
+      "Convenios firmados",
+      "Alianzas ejecutadas"
+    ],
+    "denominador_labels": [
+      "Número de alianzas identificadas",
+      "Alianzas planificadas"
+    ],
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      [
+        8,
+        6
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        12,
+        10
+      ],
+      [
+        15,
+        13
+      ]
+    ],
+    "denominador": [
+      [
+        9,
+        10
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        16,
+        16
+      ]
+    ],
+    "interpretacion": "La gráfica de control de las medias del Índice de Cumplimiento Estratégico de Alianzas muestra que, durante el período 2022-2025, el desempeño de la empresa ha sido positivo. El KPI aumenta cada año, lo que significa que las alianzas estratégicas se han ido fortaleciendo. Todos los resultados se mantienen dentro de los límites establecidos, aunque en 2025 el indicador está más cerca del límite superior."
+  },
+  {
+    "id": "Estrategia 4",
+    "kpi_cmi_match": "Índice de mejoras en procesos de postcosecha y normas ambientales",
+    "perspectiva": "Procesos Internos",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "suma",
+    "numerador_labels": [
+      "Implementación de mejoras realizadas",
+      "Revisiones internas exitosas"
+    ],
+    "denominador_labels": [
+      "Mejoras procesos productivos identificadas",
+      "Revisiones planificadas"
+    ],
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      [
+        12,
+        8
+      ],
+      [
+        15,
+        10
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        22,
+        15
+      ]
+    ],
+    "denominador": [
+      [
+        18,
+        10
+      ],
+      [
+        20,
+        12
+      ],
+      [
+        22,
+        14
+      ],
+      [
+        25,
+        16
+      ]
+    ],
+    "interpretacion": "La gráfica de control de las medias del Índice de Cumplimiento de Estándares de Calidad muestra que, entre 2022 y 2025, la empresa ha mejorado de forma constante en la implementación de mejoras y en las revisiones internas. Todos los valores se encuentran dentro de los límites establecidos, por lo que el proceso mantiene un buen desempeño."
+  },
+  {
+    "id": "Estrategia 5",
+    "kpi_cmi_match": "Índice de estandarización tecnológica de procesos",
+    "perspectiva": "Aprendizaje y crecimiento",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "simple",
+    "numerador_label": "Procesos críticos integrados y controlados en el sistema informático",
+    "denominador_label": "Procesos críticos priorizados para estandarización",
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      2,
+      5,
+      9,
+      11
+    ],
+    "denominador": [
+      8,
+      10,
+      12,
+      12
+    ],
+    "interpretacion": "La gráfica nos muestra que el proceso de estandarización tecnológica mantuvo un crecimiento progresivo y planificado durante 2022-2025, iniciando en 25,00% en 2022 y logrando consolidar un 91,67% para el cierre de 2025. El comportamiento se sitúa dentro de los límites de control estadísticos, demostrando la estabilidad y madurez operativa del holding."
+  },
+  {
+    "id": "Estrategia 6",
+    "kpi_cmi_match": "Índice de adopción del cambio organizacional",
+    "perspectiva": "Aprendizaje y crecimiento",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "simple",
+    "numerador_label": "Colaboradores que aprueban satisfactoriamente la evaluación de adopción del cambio",
+    "denominador_label": "Total de colaboradores evaluados en el proceso de transformación",
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      210,
+      420,
+      595,
+      665
+    ],
+    "denominador": [
+      700,
+      700,
+      700,
+      700
+    ],
+    "interpretacion": "El Índice de Adopción del Cambio Organizacional inició en 2022 con 30,00% (210 de 700 colaboradores), producto de la resistencia inicial. A través de programas continuos de capacitación, el holding alcanzó un 95,00% (665 colaboradores) al cierre de 2025. El proceso se mantuvo dentro de las bandas estadísticas, confirmando una transición cultural estable y controlada."
+  },
+  {
+    "id": "Estrategia 7",
+    "kpi_cmi_match": "Índice de Efectividad de la Adaptación Estratégica",
+    "perspectiva": "Cliente",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "simple",
+    "numerador_label": "Mejoras con resultados positivos",
+    "denominador_label": "Total de mejoras implementadas",
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      4,
+      6,
+      7,
+      9
+    ],
+    "denominador": [
+      6,
+      8,
+      10,
+      12
+    ],
+    "interpretacion": "El proceso se mantiene bajo control estadístico durante 2022-2025, con un promedio de cumplimiento del 71.67%. Se observa una tendencia positiva en 2023 y 2025 (75%), con una ligera disminución en 2024 (70%) que no afecta el comportamiento general, ya que todos los puntos permanecen dentro de los límites de control (LCS = 77.74%, LCI = 65.60%)."
+  },
+  {
+    "id": "Estrategia 8",
+    "kpi_cmi_match": "Índice de Efectividad de la Formalización Organizacional",
+    "perspectiva": "Procesos Internos",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "simple",
+    "numerador_label": "Documentos que mejoraron el desempeño",
+    "denominador_label": "Total de documentos formalizados",
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      3,
+      4,
+      5,
+      7
+    ],
+    "denominador": [
+      5,
+      6,
+      7,
+      9
+    ],
+    "interpretacion": "El proceso se encuentra bajo control estadístico durante 2022-2025, con un promedio de cumplimiento del 68.97%. Se observa una tendencia ascendente consistente, de 60% en 2022 a 77.78% en 2025, dentro de los límites de control establecidos (LCS = 81.93%, LCI = 56.01%)."
+  },
+  {
+    "id": "Estrategia 9",
+    "kpi_cmi_match": "Índice de fortalecimiento de la estructura administrativa",
+    "perspectiva": "Procesos Internos",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "suma",
+    "numerador_labels": [
+      "Perfiles diseñados",
+      "Niveles jerárquicos definidos"
+    ],
+    "denominador_labels": [
+      "Total de cargos",
+      "Total de niveles requeridos"
+    ],
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      [
+        18,
+        4
+      ],
+      [
+        22,
+        4
+      ],
+      [
+        28,
+        5
+      ],
+      [
+        35,
+        5
+      ]
+    ],
+    "denominador": [
+      [
+        45,
+        4
+      ],
+      [
+        52,
+        4
+      ],
+      [
+        63,
+        5
+      ],
+      [
+        78,
+        5
+      ]
+    ],
+    "interpretacion": "El proceso organizativo se encuentra bajo control estadístico y estable en 2022-2025. Del año 1 al 3 la curva crece de forma ascendente (fortalecimiento estructural evidente); aunque en el año posterior hubo una baja, no representa un conflicto ya que el equilibrio general es idóneo."
+  },
+  {
+    "id": "Estrategia 10",
+    "kpi_cmi_match": "Índice de Implementación Normativa",
+    "perspectiva": "Procesos Internos",
+    "muestra_n": 4,
+    "constante_a2": 0.729,
+    "tipo": "suma",
+    "numerador_labels": [
+      "Normas Diseñadas",
+      "Documentos Aprobados",
+      "Colaboradores Capacitados"
+    ],
+    "denominador_labels": [
+      "Total planificado",
+      "Documentos presentados",
+      "Total empleados"
+    ],
+    "anios": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "numerador": [
+      [
+        31450,
+        11200,
+        6100
+      ],
+      [
+        36800,
+        13100,
+        7250
+      ],
+      [
+        42150,
+        14890,
+        8400
+      ],
+      [
+        48500,
+        17200,
+        9800
+      ]
+    ],
+    "denominador": [
+      [
+        45000,
+        35000,
+        6100
+      ],
+      [
+        52000,
+        41000,
+        7250
+      ],
+      [
+        60000,
+        48000,
+        8400
+      ],
+      [
+        70000,
+        56000,
+        9800
+      ]
+    ],
+    "interpretacion": "El índice de implementación normativa se mantiene estadísticamente estable y bajo control durante 2022-2025. A pesar de los incrementos anuales en montos planificados y ejecutados, la tasa de cumplimiento normativo fluye de manera armónica, sin superar ni caer por debajo de los límites establecidos."
+  },
+  {
+    "id": "Estrategia 11",
+    "kpi_cmi_match": "Indice de Eficiencia estructura",
+    "perspectiva": "Financiera",
+    "muestra_n": 5,
+    "constante_a2": 0.577,
+    "tipo": "departamentos",
+    "departamentos": [
+      "Talento Humano",
+      "Finanzas",
+      "Producción",
+      "Logística",
+      "Comercial"
+    ],
+    "anios": [
+      "Año 1",
+      "Año 2",
+      "Año 3",
+      "Año 4",
+      "Año 5"
+    ],
+    "valores": [
+      [
+        0.9,
+        0.92,
+        0.92,
+        0.9,
+        0.91
+      ],
+      [
+        0.92,
+        0.93,
+        0.93,
+        0.92,
+        0.91
+      ],
+      [
+        0.9,
+        0.92,
+        0.91,
+        0.9,
+        0.92
+      ],
+      [
+        0.91,
+        0.92,
+        0.93,
+        0.92,
+        0.91
+      ],
+      [
+        0.9,
+        0.91,
+        0.9,
+        0.92,
+        0.93
+      ]
+    ],
+    "interpretacion": "El promedio de procesos eficientes estructurales se mantiene flotando dentro de las bandas de control; al no existir ningún punto fuera de los límites, la empresa demuestra que su nivel de cumplimiento normativo es un proceso maduro, constante y libre de anomalías legales o administrativas."
+  },
+  {
+    "id": "Estrategia 12",
+    "kpi_cmi_match": "Tasa de efectividad del control interno",
+    "perspectiva": "Procesos Internos",
+    "muestra_n": 5,
+    "constante_a2": 0.577,
+    "tipo": "departamentos",
+    "departamentos": [
+      "Talento Humano",
+      "Finanzas",
+      "Producción",
+      "Logística",
+      "Comercial"
+    ],
+    "anios": [
+      "Año 1",
+      "Año 2",
+      "Año 3",
+      "Año 4",
+      "Año 5"
+    ],
+    "valores": [
+      [
+        0.92,
+        0.93,
+        0.92,
+        0.92,
+        0.92
+      ],
+      [
+        0.9,
+        0.91,
+        0.91,
+        0.92,
+        0.93
+      ],
+      [
+        0.9,
+        0.92,
+        0.89,
+        0.91,
+        0.93
+      ],
+      [
+        0.91,
+        0.9,
+        0.9,
+        0.89,
+        0.91
+      ],
+      [
+        0.9,
+        0.91,
+        0.9,
+        0.92,
+        0.93
+      ]
+    ],
+    "interpretacion": "El promedio de los controles por departamento se mantiene flotando dentro de las bandas de control; al no existir ningún punto fuera de los límites, la empresa demuestra que su nivel de cumplimiento normativo no es un golpe de suerte, sino un proceso maduro, constante y libre de anomalías legales o administrativas."
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "penetracion": {
+    "titulo": "1. PENETRACIÓN DE MERCADO",
+    "items": [
+      "• Incrementar exportaciones +10%",
+      "• Mejorar eficiencia operativa 10%-20%",
+      "• Reducir defectos en 8%",
+      "• Fortalecer marca premium"
+    ]
+  },
+  "desarrollo_mercado": {
+    "titulo": "2. DESARROLLO DE MERCADO",
+    "items": [
+      "• Expansión hacia China y Asia",
+      "• Clientes Asia: 2 → 8 (+300%)",
+      "• Exportaciones: $0.5M → $2.8M",
+      "• Ventas digitales: 2% → 12%"
+    ]
+  },
+  "desarrollo_producto": {
+    "titulo": "3. DESARROLLO DE PRODUCTO",
+    "items": [
+      "• 2 nuevas variedades premium",
+      "• Productos personalizados +200%",
+      "• Innovación genética floral",
+      "• Productos sostenibles"
+    ]
+  },
+  "diversificacion": {
+    "titulo": "4. DIVERSIFICACIÓN",
+    "items": [
+      "• Big Data e Inteligencia Artificial",
+      "• E-commerce floral internacional",
+      "• Automatización estratégica",
+      "• Blockchain y trazabilidad digital"
+    ]
+  }
+}

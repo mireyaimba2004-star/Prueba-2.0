@@ -1,0 +1,62 @@
+[
+  {
+    "evento": "Incumplimiento de la Ley de Compañías",
+    "probabilidad": "Alta",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Extremo"
+  },
+  {
+    "evento": "Falta de capacitación en seguridad laboral",
+    "probabilidad": "Alta",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Extremo"
+  },
+  {
+    "evento": "Variación del dólar frente al euro",
+    "probabilidad": "Media",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Alto"
+  },
+  {
+    "evento": "Incremento del costo de fertilizantes",
+    "probabilidad": "Alta",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Extremo"
+  },
+  {
+    "evento": "Baja implementación de Big Data",
+    "probabilidad": "Media",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Alto"
+  },
+  {
+    "evento": "Pérdida de competitividad internacional",
+    "probabilidad": "Media",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Alto"
+  },
+  {
+    "evento": "Alta huella de carbono",
+    "probabilidad": "Alta",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Extremo"
+  },
+  {
+    "evento": "Alta rotación de personal",
+    "probabilidad": "Media",
+    "consecuencia": "Moderada",
+    "nivel": "Riesgo Tolerable"
+  },
+  {
+    "evento": "Riesgos climáticos y fitosanitarios",
+    "probabilidad": "Alta",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Extremo"
+  },
+  {
+    "evento": "Retrasos en exportaciones",
+    "probabilidad": "Media",
+    "consecuencia": "Mayor",
+    "nivel": "Riesgo Alto"
+  }
+]

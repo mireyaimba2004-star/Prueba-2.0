@@ -1,0 +1,102 @@
+[
+  {
+    "etapa": "Investigación y desarrollo",
+    "actividad": "Desarrollo de variedades flores exclusivas que permiten diferenciación y valor premium en mercados Internacionales ",
+    "peso": 0.12,
+    "cuello_botella": "No es muy notable ya que la empresa tiene la capacidad de innovar de manera eficiente y rápida ",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "F9"
+    }
+  },
+  {
+    "etapa": "Preparación del Cultivo",
+    "actividad": "Adecuación técnica del suelo, riego y fertilización para garantizar productividad y calidad floral  ",
+    "peso": 0.08,
+    "cuello_botella": "No existe mucho debido a que hay agricultores y especialistas especializados y capacitados",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "F1"
+    }
+  },
+  {
+    "etapa": "Producción y Cultivo",
+    "actividad": "Manejo agrícola especializado que incrementa el rendimiento y la calidad de las flores ",
+    "peso": 0.12,
+    "cuello_botella": "Si existe por riesgos climáticos y fitosanitarios que pueden afectar la producción que no se puede predecir con exactitud",
+    "factor_relacionado": {
+      "fuente": "EFE",
+      "codigo": "EFE_A5"
+    }
+  },
+  {
+    "etapa": "Supervisión Agrícola",
+    "actividad": "Monitoreo técnico constante para asegurar estándares internacionales de la calidad ",
+    "peso": 0.08,
+    "cuello_botella": "Si, ya que sobrecarga operativa en temporadas de alta demanda  ",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "D1"
+    }
+  },
+  {
+    "etapa": "Cosecha",
+    "actividad": "Recolección en el punto óptimo para conservar frescura y vida útil del producto",
+    "peso": 0.09,
+    "cuello_botella": "No existe ya que la calidad es importante para la empresa ",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "F7"
+    }
+  },
+  {
+    "etapa": "Postcosecha y Calidad",
+    "actividad": "Clasificación, hidratción, empaque y control de calidad que genera valor agregado para exportación premium ",
+    "peso": 0.11,
+    "cuello_botella": "Si, porque existe la saturación operativa y acumulación de producto en temporadas altas",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "D6"
+    }
+  },
+  {
+    "etapa": "Almacenamiento y conservación",
+    "actividad": "Conservación en frío para mantener la calidad y presentación floral ",
+    "peso": 0.08,
+    "cuello_botella": "Si existe, por costos elevados de mantenimiento y capacidad limitada ",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "D4"
+    }
+  },
+  {
+    "etapa": "Logística Y Exportación ",
+    "actividad": "Distribución Internacional Eficiente que permite presencia en mercados globales",
+    "peso": 0.12,
+    "cuello_botella": "Si, ya que existe dependencia del transporte aéreo y altos costos logísticos ",
+    "factor_relacionado": {
+      "fuente": "EFE",
+      "codigo": "EFE_A4"
+    }
+  },
+  {
+    "etapa": "Comercialización Internacional",
+    "actividad": "Gestión comercial y posicionamiento internacional de la marca floral",
+    "peso": 0.11,
+    "cuello_botella": "Si, ya que existe dependencia de la temporada de exportación",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "D6"
+    }
+  },
+  {
+    "etapa": "Servicio al Cliente",
+    "actividad": "Seguimienyo post venta y fidelización de clientes internacionales ",
+    "peso": 0.09,
+    "cuello_botella": "No, ya que existe servicio personalizado per con el tiempo es muy importante tener una gestión de relación con el cliente  ",
+    "factor_relacionado": {
+      "fuente": "EFI",
+      "codigo": "F1"
+    }
+  }
+]
